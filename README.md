@@ -11,7 +11,7 @@ strong collaborator with effective communication and problem-solving skills
 ***I am expanding my knowledge in both front-end and back-end development***
 - 🌱 I’m currently learning ...
   - PHP
-  - React js
+  - Django
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, :soccer: I love to player soccer, :runner: do exercise, 🎵 listen to music, and :leaves: explore nature outdoors.
